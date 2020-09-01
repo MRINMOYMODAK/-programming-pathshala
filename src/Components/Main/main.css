@@ -1,0 +1,7 @@
+.course-section{
+    margin: 10px;
+    border-right: 2px solid lightgray;
+}
+.course-section hr{
+    width: 150px;
+}

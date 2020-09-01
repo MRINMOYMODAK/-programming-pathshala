@@ -1,0 +1,8 @@
+.row{
+    border-bottom: 1px solid lightgray;
+}
+
+.photo img{
+    width: 100%;
+    height: 170px;
+}

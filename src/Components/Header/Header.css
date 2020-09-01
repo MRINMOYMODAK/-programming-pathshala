@@ -1,0 +1,29 @@
+.nav-bar{
+    background-color: black;
+    line-height: 50px;
+}
+.nav-bar a{
+    text-decoration: none;
+    margin: 20px;
+    padding: 13px;
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+    text-align: center;
+}
+.nav-bar .links:hover{
+    background-color: thistle;
+    border-radius: 2px;
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    color: orange !important;
+}
+.logo span{
+    color: orangered;
+}
+.logo:hover{
+    text-decoration: none;
+}
+
